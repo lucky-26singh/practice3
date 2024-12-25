@@ -1,0 +1,2 @@
+my first text in my file
+my second text in my file
